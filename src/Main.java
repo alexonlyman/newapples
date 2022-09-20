@@ -12,5 +12,6 @@ papper = papper + 4;
 System.out.println(dog);
 System.out.println(cat);
 System.out.println(papper);
+
     }
 }
