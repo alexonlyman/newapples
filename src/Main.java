@@ -24,6 +24,14 @@ friends = 19 + 2;
 System.out.println(friends);
 friends = friends / 7;
 System.out.println(friends);
+var frog = 3.5;
+System.out.println(frog);
+frog = frog * 10;
+System.out.println(frog);
+frog = frog / 3.5;
+System.out.println(frog);
+frog = frog + 4;
+System.out.println(frog);
 
 
     }
