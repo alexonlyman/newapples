@@ -18,5 +18,13 @@ papper = papper - 7639;
 System.out.println(dog);
 System.out.println(cat);
 System.out.println(papper);
+var friends = 19;
+System.out.println(friends);
+friends = 19 + 2;
+System.out.println(friends);
+friends = friends / 7;
+System.out.println(friends);
+
+
     }
 }
